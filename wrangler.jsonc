@@ -7,13 +7,13 @@
 	"d1_databases": [
 		{
 			"binding": "DB",
-			"database_name": "my","database_id": "a77fe646-a963-44df-b439-3de88b6e5bc3",
+			"database_name": "myaa",
 		},
 	],
 	"r2_buckets": [
 		{
 			"binding": "MEDIA",
-			"bucket_name": "myemd","preview_bucket_name": "myemd",
+			"bucket_name": "myemd","preview_bucket_name": "myaa",
 		},
 	],
 	// Worker Loader for plugin sandboxing
